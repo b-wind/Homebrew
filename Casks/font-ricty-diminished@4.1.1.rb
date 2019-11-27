@@ -6,6 +6,8 @@ cask 'font-ricty-diminished@4.1.1' do
   name 'Ricty Diminished@4.1.1'
   homepage 'http://www.yusa.lab.uec.ac.jp/~yusa/ricty_diminished.html'
 
+  conflicts_with cask: 'font-ricty-diminished'
+
   font 'RictyDiminished-Bold.ttf'
   font 'RictyDiminished-BoldOblique.ttf'
   font 'RictyDiminished-Oblique.ttf'
