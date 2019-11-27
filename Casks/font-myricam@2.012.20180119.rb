@@ -5,7 +5,7 @@ cask 'font-myricam@2.012.20180119' do
   url "https://github.com/tomokuni/Myrica/blob/a2383726d3662453ef7efa37862f743a831c7433/product/MyricaM.7z?raw=true"
   name 'MyricaM@2.012.20180119'
   homepage 'https://myrica.estable.jp/'
-  conflicts_with cask: 'font-myricam'<
+  conflicts_with cask: 'font-myricam'
 
   font "MyricaM.TTC"
 end
