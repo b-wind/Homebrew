@@ -1,4 +1,4 @@
-cask 'font-myricam' do
+cask 'font-myricamAT2.012.20180119' do
   version '2.012.20180119'
   sha256 '7b309919d0f5e51cb2d96dc13b94794efe39f2b2f4eae7a43d9404088ad2ddda'
 

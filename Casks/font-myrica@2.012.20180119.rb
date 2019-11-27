@@ -1,4 +1,4 @@
-cask 'font-myrica' do
+cask 'font-myricaAT2.012.20180119' do
   version '2.012.20180119'
   sha256 'f73dca7a5999d02351534dbdc184e0e2f9f1a8294de5ff931bb535a5327c68c0'
 
