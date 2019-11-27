@@ -1,6 +1,6 @@
 cask 'font-myrica' do
   version '2.012.20180119'
-  sha256 'ffab16c40a9610989874e9375859e00ae3c137a86dc34afa8ebedeaf212e1be9'
+  sha256 '189698851150814728a093830dd61b685dd98a01f29e36738d9271420726202b'
 
   url "https://github.com/tomokuni/Myrica/raw/master/product/Myrica.zip"
   name 'Myrica'
