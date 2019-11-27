@@ -2,7 +2,7 @@ cask 'font-ricty-diminished' do
   version '4.1.1'
   sha256 '09d6cf8eaf3402205dd8a0fa35469d41833b4e85bedddfac235255d78747766b'
 
-  url "http://www.yusa.lab.uec.ac.jp/~yusa/ricty_diminished/ricty_diminished-#{version}.tar.gz
+  url "http://www.yusa.lab.uec.ac.jp/~yusa/ricty_diminished/ricty_diminished-#{version}.tar.gz"
   name 'Ricty Diminished'
   homepage 'http://www.yusa.lab.uec.ac.jp/~yusa/ricty_diminished.html'
 
@@ -15,3 +15,4 @@ cask 'font-ricty-diminished' do
   font 'RictyDiminishedDiscord-Oblique.ttf'
   font 'RictyDiminishedDiscord-Regular.ttf'
 end
+
